@@ -2,6 +2,39 @@
 
 > **Learn iOS architecture patterns through live, interactive code — not static blog posts.**
 
+## Screenshots
+
+### Architectures Hub
+| Hub — all 6 patterns | MVVM Live Demo | MVVM Code Viewer |
+|:---:|:---:|:---:|
+| ![Architectures Hub](Screenshots/01_architectures_hub.png) | ![MVVM Demo](Screenshots/04_mvvm_demo_with_tasks.png) | ![MVVM Code](Screenshots/05_mvvm_code_tab.png) |
+
+### Architecture Detail Views
+| Data Flow Diagram | Concepts & Layers | VIPER Demo |
+|:---:|:---:|:---:|
+| ![Diagram](Screenshots/06_mvvm_diagram_tab.png) | ![Concepts](Screenshots/07_mvvm_concepts_tab.png) | ![VIPER](Screenshots/09_viper_demo_with_task.png) |
+
+| VIPER Diagram | TCA — Action Log | Clean Architecture |
+|:---:|:---:|:---:|
+| ![VIPER Diagram](Screenshots/10_viper_diagram.png) | ![TCA Action Log](Screenshots/13_tca_action_log.png) | ![Hub Scrolled](Screenshots/02_architectures_hub_scrolled.png) |
+
+### Interview Prep
+| Topic List | Topic Overview | Code Examples |
+|:---:|:---:|:---:|
+| ![Interview Prep](Screenshots/14_interview_prep_list.png) | ![Topic Overview](Screenshots/15_topic_overview.png) | ![Code Tab](Screenshots/17_topic_code_tab.png) |
+
+### Quiz Engine
+| Quiz Question | Answer Feedback | Next Question |
+|:---:|:---:|:---:|
+| ![Quiz Question](Screenshots/18_quiz_question_1.png) | ![Answer](Screenshots/19_quiz_answer_feedback.png) | ![Question 2](Screenshots/20_quiz_question_2.png) |
+
+### Comparison & Progress
+| Comparison — Layers | Comparison — Pros/Cons | Progress Dashboard |
+|:---:|:---:|:---:|
+| ![Comparison Layers](Screenshots/21_comparison_layers.png) | ![Pros Cons](Screenshots/22_comparison_pros_cons.png) | ![Progress](Screenshots/24_progress_view.png) |
+
+---
+
 iArchitect teaches **MVC, MVP, MVVM, VIPER, Clean Architecture, and TCA** by building the *exact same Task Manager app* in every pattern, side by side in one container app. Every pattern comes with a live running demo, syntax-highlighted source code, an animated data-flow diagram, and a concepts guide. An Interview Prep section covers 10 core iOS topics with code snippets and quizzes.
 
 ---

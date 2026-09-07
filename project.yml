@@ -7,6 +7,21 @@ options:
   groupSortPosition: top
 
 targets:
+  iArchitectUITests:
+    type: bundle.ui-testing
+    platform: iOS
+    deploymentTarget: "17.0"
+    sources:
+      - path: iArchitectUITests
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.iarchitect.uitests
+        SWIFT_VERSION: 5.9
+        TEST_TARGET_NAME: iArchitect
+        GENERATE_INFOPLIST_FILE: YES
+    dependencies:
+      - target: iArchitect
+
   iArchitect:
     type: application
     platform: iOS
